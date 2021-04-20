@@ -1,0 +1,104 @@
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.cache
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.CoreCompileInputs.cache
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csprojAssemblyReference.cache
+C:\Users\Compu Store\Documents\Visual Studio 2017\Projects\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditDrinks.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.Cache
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\PrinterUtility.dll
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\bin\Debug\drinks.txt
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\bin\Debug\PrinterUtility.dll
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditDrinks.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.Cache
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\bin\Debug\PrinterUtility.dll
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditDrinks.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+E:\Projects\C#\Caffe Versions\Maher\Last Version\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.Cache
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\bin\Debug\PrinterUtility.dll
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csprojResolveAssemblyReference.cache
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditDrinks.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+E:\Projects\C#\Caffe Versions\Maher\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.Cache
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe.config
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\bin\Debug\Cafe Template.exe
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\bin\Debug\Cafe Template.pdb
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\bin\Debug\PrinterUtility.dll
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditDrinks.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.EditUsers.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.LoginForm.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.MainForm.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Khazna.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Properties.Resources.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Sallah.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.SwitchTables.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.Tqarer.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.GenerateResource.cache
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.CoreCompileInputs.cache
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csproj.CopyComplete
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.exe
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.pdb
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe_Template.CheckingAdminPassword.resources
+D:\Work\Zeyad's Cafe\Cafe Template\Cafe Template\obj\Debug\Cafe Template.csprojAssemblyReference.cache

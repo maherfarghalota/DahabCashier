@@ -1,0 +1,6 @@
+\\DESKTOP-G51FFAS\80mm Series Printer
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\drinks.txt
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\exportsDatabase.txt
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\loginData.txt
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\ordersData.txt
+E:\Projects\C#\Caffe Versions\Cafe Template\Cafe Template\bin\Debug\product.txt
